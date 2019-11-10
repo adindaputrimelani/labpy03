@@ -12,7 +12,7 @@ ALUR ALGORITMA PROGRAM LATIHAN.2
 1. Masukan bilangan
 2. Program akan terus mengulang untuk meminta anda memasukan bilangan selama bilangan yang anda masukan tersebut tidak sesuai syarat berhenti.
 3. Pengulangan akan berhenti ketika anda memasukan angka nol(0). dimana angka 0 ini adalah syarat untuk berhenti.
-selanjutnya akan menampilkan bilangan terbesar yang diinputkan.
+selanjutnya akan menampilkan bilangan terbesar yang diinputkan. untuk mencari bilangan terbesar gunakan fungsi max().
 
 ![Screenshot (66)](https://user-images.githubusercontent.com/57041175/68540892-332c3100-03cb-11ea-8364-85fe0fdef2f2.png)
 
