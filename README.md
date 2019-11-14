@@ -7,6 +7,11 @@ contoh hasil nilai random yang kurang dari 0.5:
 
 ![Screenshot (77)](https://user-images.githubusercontent.com/57041175/68541104-fa418b80-03cd-11ea-8802-be969aac0091.png)
 
+berikut gambar flowchartnya:
+
+
+![Screenshot_2019-11-14-19-01-28-96](https://user-images.githubusercontent.com/57041175/68857026-76acd500-0714-11ea-9bcb-5a29395ef690.png)
+
 
 ALUR ALGORITMA PROGRAM LATIHAN.2
 1. Masukan bilangan
@@ -15,6 +20,12 @@ ALUR ALGORITMA PROGRAM LATIHAN.2
 selanjutnya akan menampilkan bilangan terbesar yang diinputkan. untuk mencari bilangan terbesar gunakan fungsi max().
 
 ![Screenshot (66)](https://user-images.githubusercontent.com/57041175/68540892-332c3100-03cb-11ea-8364-85fe0fdef2f2.png)
+
+berikut gambar flowchartnya:
+
+![Screenshot_2019-11-14-19-05-13-33](https://user-images.githubusercontent.com/57041175/68856450-18cbbd80-0713-11ea-8c93-b3210009a207.png)
+
+
 
 ALUR ALGORITMA PROGRAM.1
 1. Modal awal pengusaha sebesar 100000000
